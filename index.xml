@@ -7,5 +7,28 @@
     <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>http://localhost:1313/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/</guid>
+      <description>&lt;p&gt;here is my research&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reflections</title>
+      <link>http://localhost:1313/reflections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/reflections/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/</guid>
+      <description>&lt;p&gt;My research focuses on HCI, HAI, and Social Computing. I am currently exploring the area of computational tools for thought and AI-powered systems for collaborative spaces. I have previously worked on projects about creative writing and AI, collaborative practices in online communities, and designing and developing productivity tools to support asynchronous and synchronous collaboration.&lt;/p&gt;
+&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://arxiv.org/pdf/2411.03137&#34;&gt;&lt;strong&gt;From Pen to Prompt: How Creative Writers Integrate AI Into their Writing Practice &amp;ndash; Creativity &amp;amp; Cognition 2025&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
